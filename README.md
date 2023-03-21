@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML5,CSS3,SASS**
 
-- 📫 How to reach me [shayanbasereh.7@gmail.com](mailto:shayanbasereh.7@gmail.com)
+- 📫 How to reach me: [shayanbasereh.7@gmail.com](mailto:shayanbasereh.7@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
