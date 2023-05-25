@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Developing**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at [Github](github.com/alirezabasereh)
 
 - 💬 Ask me about **Javascript, React.js, Html5, Css3**
 
